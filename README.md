@@ -114,3 +114,8 @@ The primary objective of this project is to create a versatile and intelligent c
 5. API Integration:
    - The chatbot service provides an API for interacting with the chatbot's backend system, including functionalities for sending user queries, receiving responses, and retrieving content.
    - Site owners integrate the chatbot API into their WordPress site using server-side scripting languages like PHP to facilitate communication between the site and the chatbot service.
+  
+  # Installation
+Download the plugin zip file. Extract and upload in your wp-content/plugins folder.
+From the wp-admin panel go to plugins and activate “Chatbot”
+You are done.
