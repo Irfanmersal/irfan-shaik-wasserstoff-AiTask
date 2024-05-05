@@ -1,0 +1,28 @@
+{
+  "id": "289f2a87-16fe-40c6-9a1e-034b7f93c226",
+  "name": "phone",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539594966,
+  "fallbackIntent": false,
+  "events": []
+}

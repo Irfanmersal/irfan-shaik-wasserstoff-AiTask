@@ -1,0 +1,36 @@
+{
+  "id": "b783c099-248a-4035-81a2-7db82e5a7513",
+  "name": "email",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3d131acd-3210-4ec0-ba49-b77ba644c1cb",
+          "dataType": "@email",
+          "name": "email",
+          "value": "$email",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537943216,
+  "fallbackIntent": false,
+  "events": []
+}

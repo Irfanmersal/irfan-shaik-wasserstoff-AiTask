@@ -1,0 +1,28 @@
+{
+  "id": "752b71ef-d5b2-4b80-8496-c78e3a2d3a0a",
+  "name": "faq",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537946323,
+  "fallbackIntent": false,
+  "events": []
+}

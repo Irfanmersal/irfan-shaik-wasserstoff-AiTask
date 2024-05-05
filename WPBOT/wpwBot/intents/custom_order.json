@@ -1,0 +1,112 @@
+{
+  "id": "f34cbfc1-ad53-4b57-a049-3b0d39046894",
+  "name": "custom_order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "028622ea-813c-4c0b-b396-1dc94ba1bd44",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please provide your email address"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "68737669-afb5-4b8f-9d87-a660fcfdc034",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone",
+          "value": "$phone",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please provide your phone number"
+            }
+          ]
+        },
+        {
+          "id": "cd7d0c3a-7e6b-4c6e-8b3e-5a549be900a2",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "website",
+          "value": "$website",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please provide your website url"
+            }
+          ]
+        },
+        {
+          "id": "d6f63b97-8d68-4c47-9366-c4e152b2bd8a",
+          "required": true,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your location?"
+            }
+          ]
+        },
+        {
+          "id": "86e68ae8-f14d-4288-9726-a31181001afb",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "Price",
+          "value": "$price",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is Your maximum price?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "f76ac4a1-63c8-48bc-b3ef-ed220f74019e",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "product",
+          "value": "$product_name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please write the product name or model you want to order"
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "WPBot has collect all information."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false,
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537451354,
+  "fallbackIntent": false,
+  "events": []
+}

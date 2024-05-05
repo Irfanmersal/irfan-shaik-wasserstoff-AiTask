@@ -1,0 +1,74 @@
+[
+  {
+    "id": "44b0419a-cffc-456b-b27b-f9e3585d7e36",
+    "data": [
+      {
+        "text": "i want to leave my phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536234685
+  },
+  {
+    "id": "32a30f7d-e499-4401-9fe5-10dd1a862d46",
+    "data": [
+      {
+        "text": "Can i leave my phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536234685
+  },
+  {
+    "id": "5443e274-383d-4346-b6e5-a0c8dbb1ccb1",
+    "data": [
+      {
+        "text": "phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536234685
+  },
+  {
+    "id": "57a574cf-fe6b-410e-b4c7-3a4297eeb52f",
+    "data": [
+      {
+        "text": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536234685
+  },
+  {
+    "id": "849a9676-d1a8-43a3-b1d8-707da7ee8bb8",
+    "data": [
+      {
+        "text": "do you have any phone number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536234685
+  },
+  {
+    "id": "1a311f77-d2a0-43aa-b57b-9f3ba53c342b",
+    "data": [
+      {
+        "text": "I want to make a call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536234685
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "id": "ed36ed46-dc71-47d9-8452-7ada95c2b1d1",
+    "data": [
+      {
+        "text": "How can i send an email to you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536234616
+  },
+  {
+    "id": "4da587dd-1a43-4cf9-93f6-68869c344cad",
+    "data": [
+      {
+        "text": "how to send email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536234616
+  },
+  {
+    "id": "1be6d63c-5407-4f7f-884e-570978383f68",
+    "data": [
+      {
+        "text": "how to email you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536234616
+  },
+  {
+    "id": "630aecb3-cb61-480f-a39f-69936ef5b939",
+    "data": [
+      {
+        "text": "email",
+        "alias": "email",
+        "meta": "@email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537943216
+  },
+  {
+    "id": "2b263c4e-bfc4-4f67-b4e6-e3b9fb18d611",
+    "data": [
+      {
+        "text": "I want to send an email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536234616
+  },
+  {
+    "id": "0a056461-b2e9-46dc-8c1a-a0e600aa7b3b",
+    "data": [
+      {
+        "text": "I need to send an email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536923340
+  }
+]

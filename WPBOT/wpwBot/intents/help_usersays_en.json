@@ -1,0 +1,38 @@
+[
+  {
+    "id": "44c42cb3-becc-46ad-93bf-6649d0c43264",
+    "data": [
+      {
+        "text": "how to start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536218776
+  },
+  {
+    "id": "186f02b1-8a11-43dd-9b32-6179b3239e2b",
+    "data": [
+      {
+        "text": "i need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536218776
+  },
+  {
+    "id": "25d28ad5-23c1-4666-904a-4de26e746ec8",
+    "data": [
+      {
+        "text": "help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536218776
+  }
+]
