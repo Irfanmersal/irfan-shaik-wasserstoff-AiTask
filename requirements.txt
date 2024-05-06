@@ -1,0 +1,10 @@
+flask
+flask-cors
+beautifulsoup4
+google-generativeai
+langchain_google_genai
+faiss-cpu
+langchain
+python-dotenv
+langchainhub
+gunicorn
